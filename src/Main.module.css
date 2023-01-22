@@ -1,0 +1,11 @@
+main {
+	padding: 2em;
+	background-color: beige;
+	overflow-y: scroll;
+	max-height: 40em;
+}
+
+.inputs {
+	display: flex;
+	flex-direction: column;
+}
