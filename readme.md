@@ -1,0 +1,2 @@
+# First React Project with HTTP Requests
+This is my first project using React and making HTTP requests. I am excited to learn and explore the capabilities of these technologies. The project includes a user interface for making GET and POST requests to a server. The main focus is on understanding the basics of making HTTP requests in a React application. I wasn't focused about app design, my main goal was to repeat my new skills.
